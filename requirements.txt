@@ -1,0 +1,4 @@
+Plaintext
+pandas
+reportlab
+openpyxl
